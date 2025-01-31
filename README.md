@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="160" src="https://tenor.com/view/lucky-star-gif-21999946"  />
+<div class="tenor-gif-embed" data-postid="21999946" data-share-method="host" data-aspect-ratio="2.10526" data-width="100%"><a href="https://tenor.com/view/lucky-star-gif-21999946">Lucky Star GIF</a>from <a href="https://tenor.com/search/lucky+star-gifs">Lucky Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
