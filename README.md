@@ -29,7 +29,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="21999946" data-share-method="host" data-aspect-ratio="2.10526" data-width="100%"><a href="https://tenor.com/view/lucky-star-gif-21999946">Lucky Star GIF</a>from <a href="https://tenor.com/search/lucky+star-gifs">Lucky Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1040627651271991357/1237775677084663908/image.png?ex=679e31ee&is=679ce06e&hm=734df890019221c4d78f7e217e86626172831cbf53673e2754ada7dbe98c261f"  />
 
 ###
 
