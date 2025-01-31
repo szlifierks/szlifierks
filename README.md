@@ -11,6 +11,8 @@
 ###
 
 <img align="center" height="160" src="https://cdn.discordapp.com/attachments/1040627651271991357/1333697552524247040/IMG_4062.jpg?ex=679e7363&is=679d21e3&hm=f53b2f8dff17e8015ee35daa87abfd657329e1d1e332784b874c4228cd1dbf21&" width="700" 
-     height="500" />
+     height="600" />
+
+
 <br clear="both">
 
