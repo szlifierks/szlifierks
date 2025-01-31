@@ -1,5 +1,4 @@
 <h1 align="center">hi im szlifierka</h1>
-<h3 align="center">random cringeass dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szlifierks&label=Profile%20views&color=0e75b6&style=flat" alt="szlifierks" /> </p>
 
