@@ -29,12 +29,9 @@
 
 ###
 
-<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1040627651271991357/1237775677084663908/image.png?ex=679e31ee&is=679ce06e&hm=734df890019221c4d78f7e217e86626172831cbf53673e2754ada7dbe98c261f"  />
+<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1040627651271991357/1333697552524247040/IMG_4062.jpg?ex=679e7363&is=679d21e3&hm=f53b2f8dff17e8015ee35daa87abfd657329e1d1e332784b874c4228cd1dbf21&"  />
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/szlifierks/szlifierks/output/snake.svg" alt="Snake animation" />
-
 ###
